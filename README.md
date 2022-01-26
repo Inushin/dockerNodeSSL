@@ -10,7 +10,7 @@ Created from `https://github.com/Inushin/dockerSymfonySSL`
 
 ![docker_facebook_share](https://user-images.githubusercontent.com/57062736/139103227-36f3cb32-c3c1-4158-b99e-25a31e955f44.png)
 
-This is a complete stack for running a projects with Node, MongoDB, NGINX and PHP into Docker containers using docker-compose tool and with Certbot for the HTTPS certificate.
+This is a complete stack for running projects with Node, MongoDB, NGINX and PHP into Docker containers using docker-compose tool and with Certbot for the HTTPS certificate.
 
 It is composed by 5 containers:
 
@@ -24,7 +24,7 @@ It is composed by 5 containers:
 
 ![Docker Installation Illustration](https://user-images.githubusercontent.com/57062736/139102730-d6f51d53-ffb3-44bb-be5e-2bdf48d91295.png)
 
-0. You need ****Docker**** and ****Docker-compose**** where you are going to launch this so, if you do not have it... click [HERE](https://github.com/Inushin/dockerSymfonySSL#installing-docker-and-docker-compose) or go to the end of this `.md` ^^
+0. You need ****Docker**** and ****Docker-compose**** where you are going to launch this so, if you do not have it... click [HERE](https://github.com/Inushin/dockerNodeSSL#installing-docker-and-docker-compose) or go to the end of this `.md` ^^
 
 1. Clone this rep.
 
