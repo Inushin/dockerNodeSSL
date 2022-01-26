@@ -24,7 +24,7 @@ It is composed by 4 containers:
 
 ![Docker Installation Illustration](https://user-images.githubusercontent.com/57062736/139102730-d6f51d53-ffb3-44bb-be5e-2bdf48d91295.png)
 
-0. You need ****Docker**** and ****Docker-compose**** where you are going to launch this so, if you do not have it... click [HERE](https://github.com/Inushin/dockerSymfonySSL#installing-docker-docker-compose-and-composer) or go to the end of this `.md` ^^
+0. You need ****Docker**** and ****Docker-compose**** where you are going to launch this so, if you do not have it... click [HERE](https://github.com/Inushin/dockerSymfonySSL#installing-docker-and-docker-compose) or go to the end of this `.md` ^^
 
 1. Clone this rep.
 
@@ -75,7 +75,7 @@ Creating docker-certbot-1 ... done
 
 - See all the information of a volumen (interesting of IPs): `docker inspect VOLUMEN_ID`
 
-## Installing Docker, Docker-compose and Composer 🛠
+## Installing Docker and Docker-compose 🛠
 ![Docker-composer](https://user-images.githubusercontent.com/57062736/141182130-b8ed2d7a-9a68-4387-b838-ba0d44bb4e0e.png)
 
 **Adjust the installation to your OS. Here you have the one for EC2(AWS) with CentOS**
