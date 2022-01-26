@@ -1,5 +1,7 @@
 # 🐳 Docker + PHP 7.4 + MongoDB 4.4 + Nginx 15 + Certbot(HTTPS) + Node 13 🐳
 
+![NODE MONGO](https://user-images.githubusercontent.com/57062736/151140108-30752a2b-f5ed-4a15-89a7-8acbcdcf1eb5.png)
+
 If you find this useful, remember about giving a start ⭐ to this repo or share it 🔁
 
 Created from `https://github.com/Inushin/dockerSymfonySSL`
@@ -8,7 +10,7 @@ Created from `https://github.com/Inushin/dockerSymfonySSL`
 
 ![docker_facebook_share](https://user-images.githubusercontent.com/57062736/139103227-36f3cb32-c3c1-4158-b99e-25a31e955f44.png)
 
-This is a complete stack for running a project with Node, MongoDB, NGINX and PHP into Docker containers using docker-compose tool and with Certbot for the HTTPS certificate.
+This is a complete stack for running a projects with Node, MongoDB, NGINX and PHP into Docker containers using docker-compose tool and with Certbot for the HTTPS certificate.
 
 It is composed by 4 containers:
 
@@ -105,5 +107,6 @@ If you find any bug or just want to give your feedback (remember the ⭐ ^^), **
 #
 
 
-**Version control**
+## Version control 📝
+
 0.0.0 - Creation of the rep with the config finished - 26/01/2022
