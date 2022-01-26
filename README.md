@@ -12,7 +12,7 @@ Created from `https://github.com/Inushin/dockerSymfonySSL`
 
 This is a complete stack for running a projects with Node, MongoDB, NGINX and PHP into Docker containers using docker-compose tool and with Certbot for the HTTPS certificate.
 
-It is composed by 4 containers:
+It is composed by 5 containers:
 
 - `nginx`, acting as the webserver.
 - `php`, the PHP-FPM container with the 7.4 PHPversion.
