@@ -34,15 +34,17 @@ It is composed by 4 containers:
 
 4. Edit the `docker-compose.yml` with your DB information. 
 
-5. Run `./init`.
+5. Edit `data/nginx/node/index.js` with your domain.
 
-6. Edit `data/nginx/web.conf` and `data/nginx/node/index.js` with your domain and your proyect dir.
+6. Run `./init`.
 
-7. Run `docker-compose down`
+7. Edit `data/nginx/web.conf` with your domain and your proyect dir.
 
-8. Run `docker-compose up -d`
+8. Run `docker-compose down`
 
-9. The 4 containers are deployed: 
+9. Run `docker-compose up -d`
+
+10. The 4 containers are deployed: 
 
 ```
 Creating docker_mongo_1   ... done
