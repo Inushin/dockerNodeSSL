@@ -38,7 +38,7 @@ It is composed by 5 containers:
 
 6. Run `./init`.
 
-7. Edit `data/nginx/web.conf` with your domain and your proyect dir.
+7. Edit `data/nginx/web.conf` with your domain and your project dir.
 
 8. Run `docker-compose down`
 
